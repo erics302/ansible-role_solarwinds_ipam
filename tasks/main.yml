@@ -1,0 +1,4 @@
+---
+- name: Courtesy Message
+  debug:
+    msg: "The custom modules for solarwinds_ipam are now available for your use."
